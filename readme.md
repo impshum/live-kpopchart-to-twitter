@@ -2,7 +2,7 @@
 
 A scheduled script to tweet some chart info from http://www.kpopchart.kr/?a=마마무(Mamamoo).
 
-![kpop thing](https://raw.githubusercontent.com/impshum/live-kpopchart-to-twitter/master/ss.jpg")
+![kpop thing](https://raw.githubusercontent.com/impshum/live-kpopchart-to-twitter/master/ss.jpg)
 
 ### Requirements
 
