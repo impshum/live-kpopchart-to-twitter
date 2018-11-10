@@ -20,3 +20,7 @@ Remember that if you have both python2 and python3 installed you have to use
 
     pip3 install -r requirements.txt
     python3 run.py
+
+### Demo
+
+https://twitter.com/putln2/status/1061278540929396737
